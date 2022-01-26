@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andreas Argiris</h1>
-<h3 align="center">I want to be a frontend developer that can accomplish all my dream projects and all future projects i am responsible to.</h3>
+<h3 align="left">I want to be a frontend developer that can accomplish all my dream projects and all future projects i am responsible to.</h3>
 
 - 🌱 I’m currently learning **Everything around JavaScript and its frameworks and libraries that i am intrested**
 

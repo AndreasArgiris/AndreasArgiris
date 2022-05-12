@@ -16,8 +16,6 @@ https://greensock.com/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff21
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
  <a href="/https://www.framer.com/motion/" target="_blank" rel="noreferrer">
 <img src="https://pagepro.co/blog/wp-content/webp-express/webp-images/uploads/2020/03/framer-motion-300x290.png.webp" alt="framer-motion" width="40" height="40"/> </a>
-  <a href="https://greensock.com/" rel="noreferrer">
-<img src="https://greensock.com/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png" alt="gsap" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>

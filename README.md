@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andreas Argiris</h1>
-<h3 align="left">I want to be a Front-End Developer that can accomplish all future projects i am responsible to.</h3>
+<h3 align="left">I am a Front-End Web Developer who wants to master all my technical skills around Front-End. I am in development 3 years full-time dedicated to accomplish my goal, studing  and working hard to create gorgeous designed and functional projects. </h3>
 
 - 🌱 I’m currently learning **everything around JavaScript and its frameworks and libraries that i am intrested to.**
-- 🤝 I’m looking to work with a company or a group to make me accomplish my goal.
+- 🤝 I’m looking to work with people that will make me accomplish my goal giving my 100% of work.
 - 📫 How to reach me **anardevelop@gmail.com**
 
 

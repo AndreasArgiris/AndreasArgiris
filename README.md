@@ -4,6 +4,3 @@
 - 📫 How to reach me **anardevelop@gmail.com**
 
 
-<h3 align="left">My stack:</h3>
-
-
